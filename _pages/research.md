@@ -4,7 +4,7 @@ permalink: /research/
 title: research
 description: Research organized by category.
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 ## Working Papers
