@@ -2,14 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses and teaching experience.
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Instructor
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+**EC310: Economics of Developing Countries** (Summer 2026)
 
-{% include courses.liquid %}
+## Teaching Assistant
+
+*2024–Present*
+
+- Intermediate Macro
+- Intermediate Micro
+- International Trade
+- Introduction to Macro
