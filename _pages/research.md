@@ -1,43 +1,30 @@
 ---
 layout: page
 permalink: /research/
-title: research
-description: Research organized by category.
+title: Research
+description:
 nav: true
 nav_order: 1
 ---
 
-## Working Papers
+<!-- ### Working Papers
 
-*None at the moment.*
+*None at the moment.* -->
 
-## Works in Progress
+### Works in Progress
 
-**Digital Nomadization and Gentrification: Evidence from Mexico City**  
-with [Alejandra Lopez Espino](https://alopezespino.github.io/)
-
-<details>
-<summary>Abstract</summary>
-
-</details>
+**Digital Nomadization and Gentrification: Evidence from Mexico City** with [Alejandra Lopez Espino](https://alopezespino.github.io/)
 
 ---
 
 **The Economic Effects of Transnational Seasonal Migration: Evidence from the Mexico-Guatemala Border**
 
-<details>
-<summary>Abstract</summary>
-
-</details>
-
 ---
 
-## Publications
+### Publications
 
-**Analyzing Stationarity in World Coffee Prices** (2024)  
-with [L.A. Gil-Alana](https://portalcientifico.unav.edu/investigadores/327961/detalle)  
+**[Analyzing Stationarity in World Coffee Prices](https://link.springer.com/article/10.1007/s10614-024-10630-4)** (2024) with [L.A. Gil-Alana](https://portalcientifico.unav.edu/investigadores/327961/detalle)  
 *Computational Economics*  
-[[Link](https://link.springer.com/article/10.1007/s10614-024-10630-4)]
 
 <details>
 <summary>Abstract</summary>
