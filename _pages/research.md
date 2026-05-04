@@ -13,9 +13,9 @@ nav_order: 1
 
 ### Works in Progress
 
-**Digital Nomadization and Gentrification: Evidence from Mexico City** with [Alejandra Lopez Espino](https://alopezespino.github.io/)
+<!-- **Digital Nomadization and Gentrification: Evidence from Mexico City** with [Alejandra Lopez Espino](https://alopezespino.github.io/)
 
----
+--- -->
 
 **The Economic Effects of Transnational Seasonal Migration: Evidence from the Mexico-Guatemala Border**
 
