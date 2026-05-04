@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://econ.msu.edu/'>Michigan State University</a>.
+subtitle:
 
 profile:
   align: right
