@@ -2,10 +2,10 @@
 layout: splash 
 title: Carlos Flores Komatsu
 header:
- image: /assets/images/popocat_trim.jpg
+ image: /assets/images/ili.jpeg
 ---
 
-![image](/assets/images/headshot.jpg){: style="float:left; padding-right:50px; padding-bottom:75px" width="350px"} 
+![image](/assets/images/prof_pic.jpeg){: style="float:left; padding-right:50px; padding-bottom:75px" width="350px"} 
 Hi, welcome to my website!
 
 I am a 3rd-year PhD student in Economics at [Michigan State University](https://econ.msu.edu/). My research interests are in development and spatial economics. More specifically, I am interested in temporary and permanent migration in the developing world.

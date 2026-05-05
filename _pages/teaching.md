@@ -4,15 +4,11 @@ title: "Teaching"
 max-width: 90%
 ---
 
-## Teaching
-
-**UC Berkeley**
-
-_Instructor of record_
+**Instructor of record**
 
 - EC310: Economics of Developing Countries (Summer 2026)
 
-_Teaching assistant_
+**Teaching assistant**
 
 - EC340: International Trade
 - EC202: Introduction to Macroeconomics
