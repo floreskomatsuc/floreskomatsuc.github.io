@@ -15,3 +15,23 @@
     object-position: center bottom;
   }
 }
+
+.profile-photo {
+  display: block;
+  width: 220px;
+  max-width: 60%;
+  margin: 0 auto 1.5em;
+
+  @media (min-width: 768px) {
+    float: left;
+    width: 350px;
+    max-width: 40%;
+    margin: 0 50px 75px 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .page__hero {
+    max-height: 180px;
+  }
+}
