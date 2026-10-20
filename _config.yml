@@ -14,13 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Carlos Flores Komatsu
+url: "https://floreskomatsuc.github.io"
+baseurl: ""
 email: floreskomatsuc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD Student in Economics at Michigan State University.
+  Carlos Flores Komatsu is a PhD student in Economics at Michigan State
+  University working on development and spatial economics, with a focus on
+  temporary and permanent migration in the developing world.
 twitter_username:
 github_username: floreskomatsuc
 minimal_mistakes_skin: default
 search: false
+# Paste the content value from Google Search Console's HTML-tag verification here
+google_site_verification:
 
 # Build settings
 markdown: kramdown
@@ -62,6 +68,7 @@ author:
   name   : "Carlos Flores Komatsu"
   avatar : "/assets/images/prof_pic.jpeg"
   bio    : "PhD student in Economics at Michigan State University."
+  location: "East Lansing, MI"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -77,6 +84,12 @@ footer:
       url: "https://github.com/floreskomatsuc"
 
 defaults:
+  # _posts (theme demo posts; keep them out of the sitemap)
+  - scope:
+      path: ""
+      type: posts
+    values:
+      sitemap: false
   # _pages
   - scope:
       path: "_pages"

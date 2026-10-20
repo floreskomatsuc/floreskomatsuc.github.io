@@ -1,4 +1,5 @@
 ---
+sitemap: false
 title: "TITLE"
 excerpt: "blah blah"
 header:
